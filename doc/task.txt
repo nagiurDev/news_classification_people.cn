@@ -1,0 +1,13 @@
+按任务归档:
+1. 数据爬取: 
+    `src/01_data_crawling.ipynb`
+2. 文本预处理:  
+    `src/02_data_cleaning.ipynb`
+    `src/03_data_preprocessing.ipynb`
+    `src/04_news_columns_generator.ipynb`
+3. 数据探索: 
+    `src/05_data_exploration.ipynb`   
+4. SVM 模型构建: 
+    `src/06_svm.ipynb`
+5. 模型评价: 
+    `src/06_svm.ipynb`
